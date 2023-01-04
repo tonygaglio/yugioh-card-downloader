@@ -1,0 +1,15 @@
+{
+  "name": "yugioh-card-downloader",
+  "version": "1.0.0",
+  "description": "Download yu-gi-oh card artworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^4.3.0"
+  }
+}
